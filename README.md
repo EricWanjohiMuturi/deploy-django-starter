@@ -18,3 +18,4 @@ This session is perfect for developers, freelancers, and students who want to br
 👨‍💻 Come with curiosity, leave with confidence.
 📌 Let’s build, deploy, and grow together!
 
+**Click to Download:** 📄 [Download the Full Documentation (PDF)](./DEPLOY-LIKE-A PRO-DJANGO-5.pdf)

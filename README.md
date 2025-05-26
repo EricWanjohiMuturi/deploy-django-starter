@@ -18,4 +18,4 @@ This session is perfect for developers, freelancers, and students who want to br
 👨‍💻 Come with curiosity, leave with confidence.
 📌 Let’s build, deploy, and grow together!
 
-**Click to View** 📄 https://github.com/EricWanjohiMuturi/deploy-django-starter/blob/main/DEPLOY-LIKE-A%20PRO-DJANGO-5.pdf
+**Click to View Docs** 📄 https://github.com/EricWanjohiMuturi/deploy-django-starter/blob/main/DEPLOY-LIKE-A%20PRO-DJANGO-5.pdf
